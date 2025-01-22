@@ -113,11 +113,3 @@ To run the development environment with type checking:
 ```bash
 npm run dev
 ```
-
-## License
-
-[MIT License](LICENSE)
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
