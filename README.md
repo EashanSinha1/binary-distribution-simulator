@@ -108,8 +108,6 @@ Built with:
 
 ## Development
 
-To run the development environment with type checking:
-
 ```bash
 npm run dev
 ```
